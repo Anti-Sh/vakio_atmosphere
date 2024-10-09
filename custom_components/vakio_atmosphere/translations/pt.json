@@ -1,0 +1,24 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "O dispositivo já está configurado"
+        },
+        "error": {
+            "cannot_connect": "Falha ao ligar",
+            "invalid_auth": "Autenticação inválida",
+            "unknown": "Erro inesperado"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "host": "Host",
+                    "password": "Palavra-passe",
+                    "port": "Porta",
+                    "topic": "Tópico",
+                    "username": "Utilizador"
+                },
+                "description": "Por favor, insira as informações de ligação do seu broker MQTT."
+            }
+        }
+    }
+}
